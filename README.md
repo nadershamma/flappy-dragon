@@ -1,6 +1,6 @@
 # Flappy Dragon
 
-The goal of the project is to build a scrolling 2D game called “Dragon Run” for the popular 
+The goal of the project is to build a scrolling 2D game called “Flappy Dragon” for the popular 
 Android operating system. 
 
 <img src="https://raw.githubusercontent.com/nadershamma/flappy-dragon/master/misc/Screenshot_2018-06-05-12-56-09.png"
